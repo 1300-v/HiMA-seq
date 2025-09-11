@@ -1,6 +1,6 @@
 # HiMA-seq
 
-<font size=2>HiMA-seq Enables Cost-effective Spatiotemporal Transcriptomics with High Sensitivity and Flexible Multiplexity</font>
+<font size=5000>HiMA-seq Enables Cost-effective Spatiotemporal Transcriptomics with High Sensitivity and Flexible Multiplexity</font>
 
 Generation of gene expression matrix
 
