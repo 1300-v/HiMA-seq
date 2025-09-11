@@ -1,5 +1,7 @@
 # HiMA-seq
 
+<font size=2>HiMA-seq Enables Cost-effective Spatiotemporal Transcriptomics with High Sensitivity and Flexible Multiplexity</font>
+
 Generation of gene expression matrix
 
 The raw sequences were transformed to Cell Ranger format using a custom python script modified from MISAR-seq. The resulting fastq files were then aligned to the mouse genome (mm39) and counted using Cell Ranger (v8.0.0), yielding feature-barcode matrices for downstream analysis.
